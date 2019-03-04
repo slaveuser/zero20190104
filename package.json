@@ -1,0 +1,15 @@
+{
+  "name": "zero",
+  "private": true,
+  "scripts": {
+    "bootstrap": "lerna bootstrap",
+    "example": "cd example && zero"
+  },
+  "devDependencies": {
+    "lerna": "^3.4.3"
+  },
+  "dependencies": {
+    "react": "^16.6.3",
+    "underscore": "^1.9.1"
+  }
+}

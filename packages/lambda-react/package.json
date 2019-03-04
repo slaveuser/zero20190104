@@ -1,0 +1,26 @@
+{
+  "name": "zero-lambda-react",
+  "main": "index.js",
+  "version": "0.0.1",
+  "dependencies": {
+    "@zeit/fetch": "^3.0.3",
+    "babel-core": "^6.26.0",
+    "babel-plugin-add-module-exports": "^1.0.0",
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "babel-register": "^6.26.0",
+    "browserify": "^14.5.0",
+    "browserify-css": "^0.14.0",
+    "ignore-styles": "^5.0.1",
+    "json-stringify-safe": "^5.0.1",
+    "konan": "^1.2.1",
+    "node-fetch": "^1.7.3",
+    "parcel-bundler": "^1.11.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "uglify-es": "^3.2.2"
+  }
+}
